@@ -1,31 +1,138 @@
-<h1 align="center">Hi 👋, I'm Leon</h1>
-<h3 align="center">Passionate learner exploring the world of Machine Learning</h3>
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>MH SHUVO</title>
+        <meta charset="UTF-8">
+    </head>
+    <body>
+        <header>
+            <h1>MD. MEHEDI HASAN SHUVO</h1>
+            <nav>
+                <a href ="#intro">Home</a>
+                <a href="#about">About Me</a>
+                <a href="#skills">Skills</a>
+                <a href="#projects">Projects</a>
+                <a href="#education">Education</a>
+                <a href="#publication">Publications</a>
+                <a href="#membership">Memberships</a>
+                <a href="#contact">Contact</a>
+                <a href="#reference">References</a>
+            </nav>
+        </header>
+        <section id="intro">
+            <h2>Hi, I am Md. Mehedi Hasan Shuvo</h2>
+            <img src="mehedi.jpg" alt="Md. Mehedi Hasan Shuvo" width="200" height="200">
+            <p>AI Researcher | Undergraduate Student at AIUB | Passionate about Artificial Intelligence, Machine Learning, Deep Learning, and Data Science</p>
+            <hr>
+        </section>
+        <section id ="about">
+            <h2>About Me</h2>
+            <p>I am an AI researcher and undergraduate student of Computer Science and Engineering (major in Information Systems) at the American International University–Bangladesh (AIUB). My academic and research interests revolve around Artificial Intelligence, Machine Learning, Deep Learning, Data Science, and Computer Vision, focusing on building intelligent, data-driven systems that connect research innovation with real-world application.</p>
+        <ul>
+            <li>AI Researcher</li>
+            <li>Undergraduate Student</li>
+            <li>Computer Science and Engineering</li>
+            <li>Information Systems</li>
+            <li>American International University–Bangladesh (AIUB)</li>
+        </ul>
+        <hr>
+        </section>
+        <section id="skills">
+            <h2>Skills</h2>
+            <p><strong>Programming:</strong> Python, Java, C#, C++, C, R, HTML</p>
+            <p><strong>ML/AI:</strong> KNN, Decision Trees, SVM, XGBoost, CNN, RNN, LSTM, YOLO, NLP</p>
+            <p><strong>Frameworks:</strong> TensorFlow, PyTorch, Keras</p>
+            <p><strong>Libraries:</strong> Scikit-learn, Pandas, NumPy, Matplotlib</p>
+            <p><strong>Databases:</strong> Oracle, MySQL</p>
+            <p><strong>Tools:</strong> Google Colab, R Studio, Matlab, VS Code, Git, Kaggle</p>
+            <hr>
+        </section>
+        <section id="projects">
+            <h2>Projects</h2>
+            <h3>Selected Projects</h3>
+             <ul>
+            <li><strong>Vehicle Detection:</strong> Real-time multi-class detection using YOLO and CNN models.</li>
+            <li><strong>Recyclable Waste Classification (MS-YOLOv12):</strong> Enhanced YOLO for sustainable waste detection.</li>
+            <li><strong>Medical & Plant Disease Detection:</strong> ML/DL-based bone fracture and tomato leaf diagnosis.</li>
+            <li><strong>Driver Behavior Analysis (DBNet):</strong> Vision-based driver activity detection for safety.</li>
+            <li><strong>Text Mining & NLP Projects:</strong> Agricultural abstract clustering and Bangla text quality analysis.</li>
+            <li><strong>Management Systems:</strong> Coaching and AIUB Shuttle Management systems (Java & C#).</li>
+            <li><strong>Data Science:</strong> EDA and visualization using Python & R.</li>
+            <li><strong>Database Project:</strong> School Management System using Oracle</li>
+            </ul>
+              <hr>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mazharul0023&label=Profile%20views&color=0e75b6&style=flat" alt="mazharul0023" /> </p>
+        </section>
+        <section id="education">
+        <h2>Education</h2>  
+        <ol>
+        <li><h3>American International University–Bangladesh (AIUB)</h3>
+        <p><strong>B.Sc. in Computer Science and Engineering</strong> — CGPA: 3.75/4.00 (Expected Graduation: 2026)</p>
+        <p><em>Relevant Courses:</em> Data Science, Machine Learning, Artificial Intelligence, Data Structures, Algorithms, Databases</p>
+        </li>
+        <li>
+        <h3>Govt. Keshab Chandra College, Jhenaidah</h3>
+        <p><strong>Higher Secondary Certificate (Science)</strong> — GPA: 5.00/5.00</p>
+        </li>
+        <li>    
+        <h3>Garagonj Secondary School</h3>
+        <p><strong>Secondary School Certificate (Science)</strong> — Year: 2018</p>
+        </li>
+        </ol>
+        <hr>
+        </section>
+        <section id="publication">
+            <h2>Publications</h2>
+            <ul>
+                 <li><strong>ECCE 2025 (IEEE, Bangladesh):</strong> <a href="https://ieeexplore.ieee.org/document/11013964">A Deep Learning-Based Framework for Accurate Detection and Classification of On-Road Vehicles Using Improved YOLOv11</a></li>
+                  <p>Abstract: Vehicle detection and classification systems have significantly improved in recent years due to the developments in deep-learning-based frameworks for object detection. These systems have various applications in autonomous driving, intelligent transportation, traffic management, and urban planning. We propose a framework for accurately detecting and classifying on-road vehicles using a deep learning model called You Only Look Once (YOLOv11). Our study provides a comprehensive knowledge of model efficiency in vehicle detection and classification across nine classes: bicycle, bus, car, e-bike, jeep, motorcycle, tricycle, truck, and van. We tested the performance of the proposed improved YOLOv11 model and evaluated it using four performance matrices. The proposed improved YOLOv11 model achieved a precision of 96.5% and a recall of 96%, an F1 score of 77%, and an AUPRC of 82%. We also compared the proposed model performance with other versions of the YOLO series, as well as various traditional deep learning models to determine the effectiveness in vehicle detection and classification. The framework is a strong option for real-time traffic monitoring and autonomous driving applications, as the results show that it greatly increases precision and recall, especially in high-traffic situations.</p>
+            </ul>
+                  <hr>
+        </section>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mazharul0023" alt="mazharul0023" /></a> </p>
+        <section id="membership">
+            <h2>Memberships</h2>
+            <ul>
+                <li>Student Member, IEEE (Institute of Electrical and Electronics Engineers)</li>
+                <li>Student Member, IEEE Computer Society</li> 
+            </ul>
+            <hr>
+        <section id ="contact">
+            <h2>Contact</h2>
+            <ul></ul>
+                <li>Email: mdmehedihasanshuvo994@gmail.com</li>
+                <li>Phone: +8801954-596854</li>
+                <li>LinkedIn: <a href="https://www.linkedin.com/in/mh-shuvo-aiub/">https://www.linkedin.com/in/mh-shuvo-aiub/</a></li>
+                <li>GitHub: <a href="https://github.com/MH-SHUVO20">https://github.com/MH-SHUVO20</a></li>
+                <li>Portfolio: <a href="https://mhshuvo.me/">https://mhshuvo.me/</a></li>
+                <li>Facebook: <a href="https://www.facebook.com/mh.shuvo.7370">https://www.facebook.com/mh.shuvo.7370</a></li>
+            </ul>
+            <hr>
+        </section>
 
-- 🔭 I’m currently **Trash To Treasure**
+        <section id="reference">
+            <h2>References</h2>
+            <ul>
+            <li>
+            <strong>AMINUN NAHAR</strong><br>
+             <p><b>Assistant Professor</b></p>
+                <p>Department of Computer Science, American International University-Bangladesh (AIUB)</p>
+            <p><b>Email:</b> aminun.nahar@aiub.edu</p>
 
-- 🌱 I’m currently learning **ML,C#**
+            </li>
+            <li>
+            <strong>Md Monayem Islam</strong><br>
+            <p><b>Senior Software Engineer</b></p>
+            <p>Nybsys (Pvt.) Ltd.</p>
+            <p><b>Email:</b> contact@monayemislam.me</p>
+            <p>Website: <a href="https://monayemislam.me">https://monayemislam.me</a></p>
+            </li>
+            </ul>
+            <hr>
+        </section>
+        <footer>
+            <p>&copy; 2024 Md. Mehedi Hasan Shuvo. All rights reserved.</p>
+        </footer>
 
-- 💬 Ask me about **C++,Games**
-
-- 📫 How to reach me **mazharhaqueaiub@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/mazharhaqu36731" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mazharhaqu36731" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mazhar-haque-719789268/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mazhar-haque-719789268/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/28444811" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="28444811" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@mazharhaqueaiub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@mazharhaqueaiub" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/bigpapa023" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="bigpapa023" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/bigpapa023" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bigpapa023" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mazharul0023&show_icons=true&locale=en" alt="mazharul0023" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mazharul0023&" alt="mazharul0023" /></p>
+    </body>
+</html>
