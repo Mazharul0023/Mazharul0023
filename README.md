@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Ridwan
+# 👋 Hi, I'm Leo
 
 ### 💻 Junior Web dev | Student @ AIUB
 
