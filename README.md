@@ -1,22 +1,35 @@
 <div align="center">
 
-# 👋 Hi, I'm Leo
+# 👋 Hi, I'm Mazharul
 
 ### 💻 Junior Web dev | Student @ AIUB
 
 <p>
-  <a href="https://your-portfolio-link.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="www.linkedin.com/in/mazhar-haque" target="_blank">
+  <a href="https://www.linkedin.com/in/mazhar-haque/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://medium.com/@ridhwanscrap" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+  <a href="https://x.com/mazharhaqu36731" target="_blank">
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"alt="X"/>
   </a>
-  <a href="mailto:ridhwanscrap@gmail.com">
+
+  .....................................................................................................
+  <a href="mailto:mazharhaqueaiub@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+
+  <a href="https://codeforces.com/profile/Bigpapa023">
+    <img src="hhttps://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="codeforce"/>
+  </a>
+
+  <a href="https://leetcode.com/u/bigpapa023/">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="Leetcode"/>
+  </a>
+
+
+
+
+
+
 </p>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=WEB+Dev;Student+@+AIUB;Lifelong+Learner;AI+Enthusiast" alt="Typing SVG" />
@@ -39,7 +52,7 @@
 
 ```javascript
 
-const ridwan = {
+const mazharul = {
 
     location: "📍 Dhaka, Bangladesh",
 
@@ -183,14 +196,14 @@ Combining code, creativity, and community.
 
 ### 📈 Contribution Graph
 
-[![ridhwanscrap's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ridhwanscrap&theme=neon&hide_border=true&area=true)](https://github.com/ridhwanscrap)
+[![Mazharul0023's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mazharul0023&theme=neon&hide_border=true&area=true)](https://github.com/Mazharul0023)
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ridhwanscrap&theme=neon&no-frame=false&no-bg=true&margin-w=4&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Mazharul0023&theme=neon&no-frame=false&no-bg=true&margin-w=4&row=1&column=7" />
 </div>
 ---
 
@@ -213,12 +226,14 @@ Combining code, creativity, and community.
 
 ### 💬 Social Media & Professional Networks
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/mazhar-haque)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mazhar-haque/)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/mazharhaqu36731)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/ridhwanscrap)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/ridhwanscrap)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ridhwasncrap)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:queen.phoenixx23@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/iamyourdaddy556gmail)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/mazharul_haque_chowdhury/)
+
+...............................................................................................................
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mazharhaqueaiub@gmail.com)
 
 
 </div>
@@ -267,7 +282,7 @@ interface Developer {
   funFact: string;
 }
 
-const ridwan: Developer = {
+const mazharul: Developer = {
   code: ["JavaScript", "C++", "TypeScript"],
   askMeAbout: ["Web Dev", "Tech Education", "Problem Solving"],
   technologies: {
@@ -287,15 +302,11 @@ const ridwan: Developer = {
 
 ### 💡 *"I love turning ideas into reality through clean, efficient, and scalable code!"*
 
-![Profile Views](https://komarev.com/ghpvc/?username=ridhwanscrap&color=blueviolet&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Mazharul0023&color=blueviolet&style=for-the-badge)
 
 ---
 ***Drop a ⭐star to help train my motivation algorithm!**
 
-<sub>Generated by Ridwan's Neural Network 🧠 | Last Epoch: January 2026</sub>
+<sub>Generated by Mazharul's Neural Network 🧠 | Last Epoch: January 2026</sub>
 
 </div>
-
-
-
-
