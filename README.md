@@ -17,7 +17,7 @@
   </a>
 
   <a href="https://codeforces.com/profile/Bigpapa023">
-    <img src="hhttps://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="codeforce"/>
+    <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="codeforce"/>
   </a>
 
   <a href="https://leetcode.com/u/bigpapa023/">
