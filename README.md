@@ -183,12 +183,12 @@ Combining code, creativity, and community.
 <table>
 <tr>
 <td align="center">
-<img width="100%" src="https://nirzak-streak-stats.vercel.app/?user=ridhwanscrap&theme=neon&hide_border=false" alt="GitHub Streak" />
+<img width="100%" src="https://nirzak-streak-stats.vercel.app/?user=Mazharul0023&theme=neon&hide_border=false" alt="GitHub Streak" />
 </td>
 </tr>
 <tr>
 <td align="center">
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridhwanscrap&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8" alt="Top Languages" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mazharul0023&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8" alt="Top Languages" />
 </td>
 </tr>
 </table>
